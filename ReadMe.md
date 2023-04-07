@@ -8,14 +8,14 @@
 [0] K-Nearest Neighbours\
 [0] K-Means Clustering\
 [0] Decision Trees\
-[] Random Forest\
-[] Naive Bayes\
-[] PCA\
-[] SVM\
-[] Neural Network\
-[] CNN\
-[] RNN\
-[] LSTM
+[ ] Random Forest\
+[ ] Naive Bayes\
+[ ] PCA\
+[ ] SVM\
+[ ] Neural Network\
+[ ] CNN\
+[ ] RNN\
+[ ] LSTM
 
 ### Pre-requisites
 To run the programs in this repo, do the following:
@@ -48,7 +48,7 @@ Once the requirements have been installed, The programs will run successfully.
 - [NLTK](https://www.nltk.org/) - NLTK is a leading platform for building Python programs to work with human language data.
 - [Spacy](https://spacy.io/) - Industrial-strength Natural Language Processing (NLP) with Python and Cython.
 
-# For Computer Vision
+#### For Computer Vision
 - [OpenCV](https://opencv.org/) - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
 - [Scikit-Image](https://scikit-image.org/) - Scikit-image is a collection of algorithms for image processing.
 
