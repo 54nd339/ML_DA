@@ -1,0 +1,19 @@
+notebook
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+nltk
+spacy
+scikit-learn
+tensorflow
+# python -m spacy download en_core_web_sm
+openpyxl
+autograd
+Keras-Preprocessing
+dlib
+mtcnn
+pyaudio
+speechrecognition
+object-detection
