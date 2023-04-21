@@ -3,6 +3,7 @@ numpy
 pandas
 matplotlib
 seaborn
+plotly
 opencv-python
 nltk
 spacy
