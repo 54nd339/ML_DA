@@ -9,10 +9,10 @@
 [0] K-Means Clustering\
 [0] Decision Trees\
 [ ] Random Forest\
-[ ] Naive Bayes\
-[ ] PCA\
-[ ] SVM\
-[ ] Neural Network\
+[0] Naive Bayes\
+[0] PCA\
+[0] SVM\
+[0] Neural Network\
 [ ] CNN\
 [ ] RNN\
 [ ] LSTM
@@ -47,6 +47,7 @@ Once the requirements have been installed, The programs will run successfully.
 #### For Natural Language Processing
 - [NLTK](https://www.nltk.org/) - NLTK is a leading platform for building Python programs to work with human language data.
 - [Spacy](https://spacy.io/) - Industrial-strength Natural Language Processing (NLP) with Python and Cython.
+- [hmmlearn](https://hmmlearn.readthedocs.io/en/latest/) - Hidden Markov Models in Python, with scikit-learn like API.
 
 #### For Computer Vision
 - [OpenCV](https://opencv.org/) - OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
