@@ -1,21 +1,19 @@
 # Machine Learning Algorithms and Data Analysis
 
-#### This repository contains the implementation of various Machine Learning Algorithms and Data Analysis techniques in Python.
+This repository contains the implementation of various Machine Learning Algorithms and Data Analysis techniques in Python.
 
-[0] Linear Regression\
-[0] Multi-Linear Regression\
-[0] Logistic Regression\
-[0] K-Nearest Neighbours\
-[0] K-Means Clustering\
-[0] Decision Trees\
-[ ] Random Forest\
-[0] Naive Bayes\
-[0] PCA\
-[0] SVM\
-[0] Neural Network\
-[ ] CNN\
-[ ] RNN\
-[ ] LSTM
+### Index
+- [Basics](https://github.com/54nd339/ML_DA/tree/master/Basics) - Contains the basic programs to get started with. It includes regression, classification, clustering, dimensionality reduction, etc from scratch.
+- [DA](https://github.com/54nd339/ML_DA/tree/master/DA) - Contains the programs related to Data Analysis like data cleaning, data visualization, etc.
+- [NLP](https://github.com/54nd339/ML_DA/tree/master/NLP) - Contains the programs related to Natural Language Processing like Viterbi Algorithm, Hidden Markov Model, etc.
+- [Colabs](https://github.com/54nd339/ML_DA/tree/master/Colabs) - Contains the programs that are implemented in Google Colaboratory, mostly related to Deep Learning and Computer Vision. It includes Image Captioning, Denoising, Enhancements, etc.
+- [Minor](https://github.com/54nd339/ML_DA/tree/master/Minor) - Contains the programs related to the Minor Project. It is a comparative study of various GAN models on the MNIST dataset.
+- [Test](https://github.com/54nd339/ML_DA/tree/master/Test) - Contains the programs for automation of data entry to [Konnexions](https://konnexions.netlify.app) Society of KIIT.
+
+#### Advanced Topics
+- [GAN](https://github.com/54nd339/ML_DA/tree/master/Basics) - Contains the programs related to Generative Adversarial Networks optimising algos on non-convex loss functions.
+- [Proctoring-AI](https://github.com/54nd339/ML_DA/tree/master/Proctoring-AI) - Contains the programs related to Proctoring AI. It includes Face Recognition, Eye Tracking, etc.
+- [QuantumComp](https://github.com/54nd339/ML_DA/tree/master/QuantumComp) - An optimisation Algorithm for Quantum gate insertion in Quantum Circuits using genetic algorithm.
 
 ### Pre-requisites
 To run the programs in this repo, do the following:
