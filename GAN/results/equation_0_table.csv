@@ -1,0 +1,15 @@
+Algorithm,Iteration,Convergence Point,Loss at Convergence Point
+GDA,N/A,N/A,N/A
+AGDA,N/A,N/A,N/A
+OGDA,N/A,N/A,N/A
+EG,N/A,N/A,N/A
+SGA,85,"(2e-05, 4e-05)",0.0
+CO,N/A,N/A,N/A
+FR,141,"(3e-05, 6e-05)",0.0
+GMN,102,"(2e-05, 4e-05)",0.0
+AGDADG,102,"(2e-05, 4e-05)",0.0
+OGDADG,128,"(7e-05, 0.00012)",0.0
+EGDG,108,"(-0.0, 1e-05)",-0.0
+SGADG,102,"(2e-05, 4e-05)",0.0
+CODG,N/A,N/A,N/A
+FRDG,102,"(2e-05, 4e-05)",0.0
